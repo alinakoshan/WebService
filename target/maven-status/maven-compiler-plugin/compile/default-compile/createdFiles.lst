@@ -1,0 +1,12 @@
+solutions\javasoft\controller\CustomerController.class
+solutions\javasoft\dao\model\Customer.class
+solutions\javasoft\dao\model\PriceList.class
+solutions\javasoft\config\AppConfig.class
+solutions\javasoft\dto\PriceListDto.class
+solutions\javasoft\controller\PriceListController.class
+solutions\javasoft\controller\ProductController.class
+solutions\javasoft\dao\repository\CustomerRepository.class
+solutions\javasoft\dao\model\Product.class
+solutions\javasoft\SimpleWebService.class
+solutions\javasoft\dao\repository\PriceListRepository.class
+solutions\javasoft\dao\repository\ProductRepository.class
